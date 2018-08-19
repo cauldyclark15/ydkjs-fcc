@@ -1,0 +1,11 @@
+{
+  "name": "ydkjs-fcc",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "cauldyclark15 <jcing.jc@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node ./index.js",
+    "dev": "nodemon ./index.js"
+  }
+}
